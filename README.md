@@ -1,10 +1,10 @@
 # TFL-Test
 Test Assignment for TFL SDET role
 
-This repository contains 3 projects:
+This repository contains 2 projects:
 
-SeleniumFramework - Framework based on Selenium to provide user friendly methods to automate using Selenium
-TFL-Test - SpecFlow based C# BDD test application that uses the above project to execute tests
+# SeleniumFramework - Framework based on Selenium to provide user friendly methods to automate using Selenium
+# TFL-Test - SpecFlow based C# BDD test application that uses the above project to execute tests
 
 Note:
 
