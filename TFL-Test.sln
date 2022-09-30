@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFL-Test", "TFL-Test\TFL-Test.csproj", "{4B0D6D01-9556-461F-8FF7-445EC17B4D7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumFramework", "SeleniumFramework\SeleniumFramework.csproj", "{AB95C12A-43FC-4DDE-9333-8A5542B528DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B0D6D01-9556-461F-8FF7-445EC17B4D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0D6D01-9556-461F-8FF7-445EC17B4D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0D6D01-9556-461F-8FF7-445EC17B4D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0D6D01-9556-461F-8FF7-445EC17B4D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB95C12A-43FC-4DDE-9333-8A5542B528DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB95C12A-43FC-4DDE-9333-8A5542B528DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB95C12A-43FC-4DDE-9333-8A5542B528DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB95C12A-43FC-4DDE-9333-8A5542B528DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15AD34B5-A27B-45F9-9F22-5DDC6B62C81A}
+	EndGlobalSection
+EndGlobal
